@@ -1,0 +1,10 @@
+-lib react-next
+-D analyzer-optimize
+-D source-map-content
+--debug
+-dce full
+-cp src
+-main Main
+# -D react_global
+-js ./bin/src/index.js
+--macro includeFile('no-linting.js')
