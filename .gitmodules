@@ -1,0 +1,9 @@
+[submodule ".haxelib/react-next/react-next"]
+	path = .haxelib/react-next/react-next
+	url = https://github.com/kLabz/haxe-react
+[submodule ".haxelib/js-object/js-object"]
+	path = .haxelib/js-object/js-object
+	url = https://github.com/kLabz/js-object
+[submodule ".haxelib/tink_hxx/tink_hxx"]
+	path = .haxelib/tink_hxx/tink_hxx
+	url = https://github.com/haxetink/tink_hxx
